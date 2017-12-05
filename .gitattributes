@@ -1,0 +1,3 @@
+# End-of-line conversion
+*               text=auto
+*.bat           text eol=crlf
